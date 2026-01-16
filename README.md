@@ -14,7 +14,7 @@ This page introduces the dataset and explains the key indicators used in the ana
 
 
 Salary Analysis Page
-<img width="1364" height="777" alt="Screenshot 2026-01-15 193206" src="https://github.com/user-attachments/assets/b11b8110-e77f-41ae-aa9e-24e4498a1d8c" />
+<img width="1369" height="775" alt="Screenshot 2026-01-16 235932" src="https://github.com/user-attachments/assets/e9faecb0-8ac4-41b7-8833-1eaae904c845" />
 This page presents multiple visualizations that compare average salary across different indicators:
 Average Salary by Gender
 Average Salary by Years of Experience
